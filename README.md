@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/ani_rudh_s" target="blank"><img src="https://img.shields.io/twitter/follow/Karthikeditz123?logo=twitter&style=for-the-badge" alt="Karthikeditz123" /></a> </p>
 
-- 🔭 I’m currently working on (https://github.com/terror-boy/WhiteDevil)
+- 🔭 I’m currently working on [White Devil] (https://github.com/terror-boy/WhiteDevil)
 
 - 💬 Ask me about **ME**
 
