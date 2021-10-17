@@ -29,16 +29,18 @@
 - ⚡ Fun fact **I THINK IAM VERY POSITIVE**
 
 
-### Repo Stats 🔭
+### Repo Stats 🔭🏻
+**CLICK THE LOGO TO VISIT THE REPO 👇🏻👇🏻👇**
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=dark)](https://github.com/terror-boy/WhiteDevil)
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil-UserBot&theme=nightowl)
+**PRIVATE REPO SO NOT VISIBLE PROPERLY [REALEASE SOON]👇🏻👇🏻👇**
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil-UserBot&theme=nightowl)](https://github.com/terror-boy/WhiteDevil-UserBot)
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=White&theme=dark)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=White&theme=dark)](https://github.com/terror-boy/White)
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=termux-package-basic&theme=nightowl)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=termux-package-basic&theme=nightowl)](https://github.com/terror-boy/termux-package-basic)
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=whatsapp-bot-collection&theme=dark)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=whatsapp-bot-collection&theme=dark)](https://github.com/terror-boy/whatsapp-bot-collection)
 
 
 
