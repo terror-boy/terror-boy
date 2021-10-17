@@ -30,7 +30,7 @@
 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=dark)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=dark)](https://github.com/terror-boy/WhiteDevil)
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil-UserBot&theme=nightowl)
 
