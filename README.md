@@ -36,10 +36,6 @@
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=dark)](https://github.com/terror-boy/WhiteDevil)
 
-**PRIVATE REPO SO NOT VISIBLE PROPERLY [REALEASE SOON]👇🏻👇🏻👇**
-
-
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil-UserBot&theme=nightowl)](https://github.com/terror-boy/WhiteDevil-UserBot)
 
 
 
@@ -52,6 +48,12 @@
 
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=whatsapp-bot-collection&theme=dark)](https://github.com/terror-boy/whatsapp-bot-collection)
+
+
+**PRIVATE REPO SO NOT VISIBLE PROPERLY [REALEASE SOON]👇🏻👇🏻👇**
+
+
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil-UserBot&theme=nightowl)](https://github.com/terror-boy/WhiteDevil-UserBot)
 
 
 
