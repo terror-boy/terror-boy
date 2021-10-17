@@ -31,9 +31,13 @@
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=dark)
+
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil-UserBot&theme=nightowl)
+
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=White&theme=dark)
+
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=termux-package-basic&theme=nightowl)
+
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=whatsapp-bot-collection&theme=dark)
 
 
