@@ -9,6 +9,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terror-boy" alt="terror-boy" /></a> </p>
 
+
+<div align="center">
+       
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=terror-boy&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  </div>
+ 
+
 <p align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=terror-boy&show_icons=true&theme=dark&locale=en&layout=compact" alt="terror-boy" /></p>
 
