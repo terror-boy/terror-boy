@@ -2,7 +2,6 @@
 
 # Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm Karthik_Terror_boy&nbsp;
 
-![My card name](https://cardivo.vercel.app/api?name=KARTHIK_TERROR-%20BOY&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.imgur.com/NyoTgJE.png&backgroundColor=#008000&github=terror-boy&&pattern=leaf&colorPattern=%25eaeaea)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=terror-boy&label=Profile%20views&color=0e75b6&style=flat" alt="terror-boy" /> </p>
 
