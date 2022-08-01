@@ -1,6 +1,6 @@
 ## Karthik_Terror_boy
 
-# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm Karthik_Terror_boy&nbsp;
+# Hi , I'm Karthik_Terror_boy&nbsp;
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=terror-boy&label=Profile%20views&color=0e75b6&style=flat" alt="terror-boy" /> </p>
